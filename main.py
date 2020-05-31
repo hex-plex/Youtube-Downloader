@@ -1,7 +1,7 @@
 import sys
 import pytube
 from pytube import YouTube
-from pytybe.cli import on_progress
+from pytube.cli import on_progress
 import urllib
 
 def getRequest(url: str):
